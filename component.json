@@ -1,0 +1,9 @@
+{
+  "name": "arrows",
+  "version": "0.0.1",
+  "description": "arrows system",
+  "keywords": ["game","arrows","keyboard","system"],
+  "author": "stagas",
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
